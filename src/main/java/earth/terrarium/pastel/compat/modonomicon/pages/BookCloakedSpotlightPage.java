@@ -1,5 +1,6 @@
 package earth.terrarium.pastel.compat.modonomicon.pages;
 
+import com.cmdpro.databank.hidden.types.ItemHiddenType;
 import com.google.gson.JsonObject;
 import com.klikli_dev.modonomicon.book.BookTextHolder;
 import com.klikli_dev.modonomicon.book.conditions.BookCondition;
@@ -81,7 +82,12 @@ public class BookCloakedSpotlightPage extends BookSpotlightPage {
 
     @Override
     public void build(Level level, BookContentEntry parentEntry, int pageNum) {
-        wasTitleUnspecified = this.title.isEmpty();
+
+        var item = this.item.map(ItemStack::getItem, i -> i.getItems()[0].getItem());
+        if (ItemHiddenType.getHiddenItem(item) != null) {
+            // Only check if we actually have a cloak
+            wasTitleUnspecified = this.title.isEmpty();
+        }
         super.build(level, parentEntry, pageNum);
     }
 }
