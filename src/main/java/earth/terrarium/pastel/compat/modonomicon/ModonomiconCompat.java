@@ -206,11 +206,11 @@ public class ModonomiconCompat extends PastelIntegrationPacks.ModIntegrationPack
             );
 
         LoaderRegistry
-                .registerPageLoader(
-                        CLOAKED_SPOTLIGHT_PAGE,
-                        (BookPageJsonLoader<?>)BookCloakedSpotlightPage::fromJson,
-                        BookCloakedSpotlightPage::fromNetwork
-                );
+            .registerPageLoader(
+                CLOAKED_SPOTLIGHT_PAGE,
+                (BookPageJsonLoader<?>) BookCloakedSpotlightPage::fromJson,
+                BookCloakedSpotlightPage::fromNetwork
+            );
     }
 
     private void registerGatedRecipePage(
@@ -407,10 +407,10 @@ public class ModonomiconCompat extends PastelIntegrationPacks.ModIntegrationPack
             );
 
         PageRendererRegistry
-                .registerPageRenderer(
-                        CLOAKED_SPOTLIGHT_PAGE,
-                        p -> new BookSpotlightPageRenderer((BookSpotlightPage) p)
-                );
+            .registerPageRenderer(
+                CLOAKED_SPOTLIGHT_PAGE,
+                p -> new BookSpotlightPageRenderer((BookSpotlightPage) p)
+            );
     }
 
 }

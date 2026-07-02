@@ -11,7 +11,6 @@ import com.mojang.datafixers.util.Either;
 import com.mojang.serialization.JsonOps;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.network.RegistryFriendlyByteBuf;
-import net.minecraft.network.chat.MutableComponent;
 import net.minecraft.network.chat.Style;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.util.GsonHelper;
@@ -22,18 +21,31 @@ import net.minecraft.world.level.Level;
 public class BookCloakedSpotlightPage extends BookSpotlightPage {
     private boolean wasTitleUnspecified = false;
 
-    public BookCloakedSpotlightPage(BookTextHolder title, BookTextHolder text, Either<ItemStack, Ingredient> item, String anchor, BookCondition condition) {
+    public BookCloakedSpotlightPage(
+        BookTextHolder title,
+        BookTextHolder text,
+        Either<ItemStack, Ingredient> item,
+        String anchor,
+        BookCondition condition
+    ) {
         super(title, text, item, anchor, condition);
     }
 
-    public static BookCloakedSpotlightPage fromJson(ResourceLocation entryId, JsonObject json, HolderLookup.Provider provider) {
+    public static BookCloakedSpotlightPage fromJson(
+        ResourceLocation entryId,
+        JsonObject json,
+        HolderLookup.Provider provider
+    ) {
         var title = BookGsonHelper.getAsBookTextHolder(json, "title", BookTextHolder.EMPTY, provider);
-        var item = ITEM_CODEC.parse(provider.createSerializationContext(JsonOps.INSTANCE), json.get("item")).result().get();
+        var item = ITEM_CODEC
+            .parse(provider.createSerializationContext(JsonOps.INSTANCE), json.get("item"))
+            .result()
+            .get();
         var text = BookGsonHelper.getAsBookTextHolder(json, "text", BookTextHolder.EMPTY, provider);
         var anchor = GsonHelper.getAsString(json, "anchor", "");
         var condition = json.has("condition")
-                ? BookCondition.fromJson(entryId, json.getAsJsonObject("condition"), provider)
-                : new BookNoneCondition();
+            ? BookCondition.fromJson(entryId, json.getAsJsonObject("condition"), provider)
+            : new BookNoneCondition();
         return new BookCloakedSpotlightPage(title, text, item, anchor, condition);
     }
 
@@ -52,11 +64,15 @@ public class BookCloakedSpotlightPage extends BookSpotlightPage {
         if (this.wasTitleUnspecified) {
             var item = this.item.map(i -> i, i -> i.getItems()[0]);
 
-            return new BookTextHolder(item.getHoverName().copy()
-                        .withStyle(Style.EMPTY
-                                .withBold(true)
-                                .withColor(this.getParentEntry().getBook().getDefaultTitleColor())
-                        )
+            return new BookTextHolder(
+                item
+                    .getHoverName()
+                    .copy()
+                    .withStyle(
+                        Style.EMPTY
+                            .withBold(true)
+                            .withColor(this.getParentEntry().getBook().getDefaultTitleColor())
+                    )
             );
         } else {
             return this.title;
