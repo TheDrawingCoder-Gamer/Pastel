@@ -50,7 +50,7 @@
       "recipe_id": "pastel:mod_integration/malum/pedestal/chorusless_ender_splice"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.malum.scythe_enchants.title",
       "item": {
         "item": "malum:crude_scythe",
@@ -115,7 +115,7 @@
       "recipe_id": "pastel:mod_integration/malum/potion_workshop_crafting/splash_of_gluttony"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",

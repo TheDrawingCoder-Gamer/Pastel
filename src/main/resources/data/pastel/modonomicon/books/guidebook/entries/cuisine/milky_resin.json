@@ -16,7 +16,7 @@
   "y": 4,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:milky_resin"
       },

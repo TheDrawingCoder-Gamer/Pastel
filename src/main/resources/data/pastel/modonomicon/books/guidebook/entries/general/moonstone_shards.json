@@ -16,7 +16,7 @@
   "y": 7,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.moonstone_shards.name",
       "item": {
         "item": "pastel:moonstone_shard"

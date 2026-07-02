@@ -16,7 +16,7 @@
   "y": 5,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:sawblade_holly_berry"
       },
@@ -24,7 +24,7 @@
       "title": "book.pastel.guidebook.sawblade_holly.name"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:prickly_bayleaf"
       },

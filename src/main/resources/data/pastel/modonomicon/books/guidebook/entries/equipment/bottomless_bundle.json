@@ -16,7 +16,7 @@
   "y": 5,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:bottomless_bundle"
       },
@@ -43,7 +43,7 @@
       "text": "book.pastel.guidebook.bottomless_bundle.page3.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:midgame/build_enchanting_structure"
@@ -60,7 +60,7 @@
       "text": "book.pastel.guidebook.bottomless_bundle.page4.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:midgame/build_enchanting_structure"

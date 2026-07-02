@@ -16,7 +16,7 @@
   "y": -3,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.clover",
       "item": {
         "item": "pastel:clover"
@@ -24,7 +24,7 @@
       "text": "book.pastel.guidebook.clover.clover.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:four_leaf_clover"
       },

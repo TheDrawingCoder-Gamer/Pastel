@@ -73,7 +73,7 @@
       "text": "book.pastel.guidebook.pedestal.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:unlocks/items/crafting_tablet"

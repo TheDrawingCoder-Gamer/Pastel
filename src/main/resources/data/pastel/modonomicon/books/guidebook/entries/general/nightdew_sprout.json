@@ -16,7 +16,7 @@
   "y": -4,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.nightdew_sprout.name",
       "item": {
         "item": "pastel:nightdew_sprout"

@@ -25,7 +25,7 @@
       "text": "book.pastel.guidebook.aloe.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:aloe_leaf"
       },

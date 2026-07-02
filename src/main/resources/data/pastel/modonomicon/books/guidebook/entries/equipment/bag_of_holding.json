@@ -16,7 +16,7 @@
   "y": 5,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.bag_of_holding",
       "item": {
         "item": "pastel:bag_of_holding"

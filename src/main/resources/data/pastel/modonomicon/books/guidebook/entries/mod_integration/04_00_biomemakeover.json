@@ -46,7 +46,7 @@
       "recipe_id": "pastel:mod_integration/biomemakeover/potion_workshop_brewing/nocturnal"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.biomemakeover.page3.title",
       "item": {
         "item": "biomemakeover:illunite_shard"

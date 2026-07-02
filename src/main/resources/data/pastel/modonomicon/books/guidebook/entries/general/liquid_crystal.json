@@ -24,7 +24,7 @@
   "turnin": "pastel:midgame/enter_liquid_crystal",
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.liquid_crystal",
       "item": {
         "item": "pastel:liquid_crystal_bucket"
@@ -38,7 +38,7 @@
       "text": "book.pastel.guidebook.liquid_crystal.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:clay"
       },

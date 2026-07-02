@@ -25,7 +25,7 @@
       "title": "item.pastel.aether_graced_nectar_gloves"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:aether_graced_nectar_gloves"
       },

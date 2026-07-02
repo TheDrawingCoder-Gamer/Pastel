@@ -23,7 +23,7 @@
   "y": 6,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.blood_orchid",
       "item": {
         "item": "pastel:blood_orchid"

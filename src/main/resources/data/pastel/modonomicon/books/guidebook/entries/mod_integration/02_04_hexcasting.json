@@ -56,7 +56,7 @@
       "recipe_id": "pastel:mod_integration/hexcasting/fusion_shrine/charged_amethyst_from_amethyst_shard_fusion"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",

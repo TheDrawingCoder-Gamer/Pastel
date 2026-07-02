@@ -16,7 +16,7 @@
   "y": -2,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.stratine.name",
       "item": {
         "item": "pastel:stratine_fragments"
@@ -34,7 +34,7 @@
       "text": "book.pastel.guidebook.rare_intact_gem"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.stratine_floatblock",
       "condition": {
         "type": "modonomicon:advancement",

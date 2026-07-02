@@ -20,7 +20,7 @@
   "y": -2,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.enchanted_star_candy",
       "item": {
         "item": "pastel:enchanted_star_candy"

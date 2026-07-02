@@ -16,7 +16,7 @@
   "y": 5,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:ender_splice"
       },
@@ -30,7 +30,7 @@
       "recipe_id": "pastel:pedestal/tier3/ender_splice"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:midgame/build_enchanting_structure"
@@ -47,7 +47,7 @@
       "text": "book.pastel.guidebook.ender_splice.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:lategame/create_resonant_tool"

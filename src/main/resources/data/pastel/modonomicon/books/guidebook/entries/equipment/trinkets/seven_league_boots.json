@@ -32,7 +32,7 @@
       "text": "book.pastel.guidebook.seven_league_boots.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:unlocks/enchantments/vanilla_projectile"

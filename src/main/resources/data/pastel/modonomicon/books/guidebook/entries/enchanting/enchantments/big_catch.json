@@ -31,7 +31,7 @@
       "title": "enchantment.pastel.big_catch"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.enchantment_characteristics",
       "item": {
         "item": "pastel:lagoon_rod"

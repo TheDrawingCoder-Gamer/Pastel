@@ -30,7 +30,7 @@
       "text": "book.pastel.guidebook.draconic_twinsword.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:draconic_twinsword"
       },

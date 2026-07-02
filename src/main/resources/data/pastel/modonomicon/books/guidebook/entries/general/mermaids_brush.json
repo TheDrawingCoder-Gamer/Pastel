@@ -21,7 +21,7 @@
       "text": "book.pastel.guidebook.mermaids_brush.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mermaids_brush.page1.title",
       "item": {
         "item": "pastel:mermaids_gem"

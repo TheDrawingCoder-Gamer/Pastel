@@ -22,7 +22,7 @@
       "title": "enchantment.pastel.resonance"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.enchantment_characteristics",
       "item": {
         "item": "minecraft:iron_pickaxe"
@@ -45,7 +45,7 @@
       "recipe_id": "pastel:enchanter/pastel_books/resonance"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.resonance.page3.title",
       "item": {
         "item": "minecraft:medium_amethyst_bud"
@@ -53,7 +53,7 @@
       "text": "book.pastel.guidebook.resonance.page3.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.pure_resources.name",
       "item": {
         "item": "pastel:pure_iron"
@@ -65,7 +65,7 @@
       "text": "book.pastel.guidebook.resonance.page4.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "",
       "item": {
         "item": "pastel:orange_leaves"
@@ -73,7 +73,7 @@
       "text": "book.pastel.guidebook.resonance.page5.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.harvesting_spawners",
       "item": {
         "item": "minecraft:spawner"
@@ -81,14 +81,14 @@
       "text": "book.pastel.guidebook.resonance.page6.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:reinforced_deepslate"
       },
       "text": "book.pastel.guidebook.resonance.page7.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:sculk_shrieker"
       },
@@ -104,14 +104,14 @@
       "text": "book.pastel.guidebook.resonance.page9.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:respawn_anchor"
       },
       "text": "book.pastel.guidebook.resonance.page10.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.resonance.page11.title",
       "item": {
         "item": "minecraft:oak_sign"
@@ -119,7 +119,7 @@
       "text": "book.pastel.guidebook.resonance.page11.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.resonance.page12.title",
       "item": {
         "item": "minecraft:infested_stone_bricks"

@@ -21,7 +21,7 @@
       "title": "block.pastel.radiating_ender"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.radiating_ender",
       "item": {
         "item": "pastel:radiating_ender"

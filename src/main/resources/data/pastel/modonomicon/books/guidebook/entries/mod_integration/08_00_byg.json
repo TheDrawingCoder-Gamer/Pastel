@@ -30,7 +30,7 @@
       "title": "book.pastel.guidebook.mod_integration.byg.name"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.auto_harvesting",
       "condition": {
         "type": "modonomicon:advancement",
@@ -42,7 +42,7 @@
       "text": "book.pastel.guidebook.crystal_apothecary_harvesting"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.moving_budding_blocks",
       "condition": {
         "type": "modonomicon:advancement",

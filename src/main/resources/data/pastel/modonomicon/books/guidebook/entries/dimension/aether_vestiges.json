@@ -21,7 +21,7 @@
       "text": "book.pastel.guidebook.aether_vestiges.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.aether_vestiges.page1.title",
       "item": {
         "id": "pastel:aether_vestiges"

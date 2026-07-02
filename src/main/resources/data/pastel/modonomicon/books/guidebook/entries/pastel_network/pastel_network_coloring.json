@@ -24,7 +24,7 @@
       "text": "book.pastel.guidebook.pastel_network_coloring.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.pastel_network_coloring.page1.title",
       "item": {
         "item": "pastel:paintbrush",

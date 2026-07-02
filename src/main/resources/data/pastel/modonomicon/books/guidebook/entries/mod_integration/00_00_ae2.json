@@ -28,7 +28,7 @@
       "title": "book.pastel.guidebook.mod_integration.ae2.name"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.ae2.page1.title",
       "item": {
         "item": "ae2:growth_accelerator"
@@ -36,7 +36,7 @@
       "text": "book.pastel.guidebook.mod_integration.ae2.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.ae2.page2.title",
       "item": {
         "item": "ae2:quartz_cluster"
@@ -48,7 +48,7 @@
       "text": "book.pastel.guidebook.mod_integration.ae2.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.ae2.page3.title",
       "condition": {
         "type": "modonomicon:advancement",

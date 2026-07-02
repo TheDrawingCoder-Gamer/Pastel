@@ -16,7 +16,7 @@
   "y": 0,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.humus",
       "item": {
         "item": "pastel:humus_bucket"

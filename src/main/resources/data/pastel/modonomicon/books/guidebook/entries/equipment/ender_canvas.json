@@ -20,7 +20,7 @@
   "y": 6,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:ender_canvas"
       },
@@ -40,7 +40,7 @@
       "recipe_id": "pastel:pedestal/tier3/ender_canvas_large"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:lategame/craft_resonant_tool"

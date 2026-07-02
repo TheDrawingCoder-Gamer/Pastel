@@ -20,7 +20,7 @@
   "y": 8,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.jade_vines",
       "item": {
         "item": "pastel:hibernating_jade_vine_bulb"
@@ -38,7 +38,7 @@
       "text": "book.pastel.guidebook.jade_vines.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.jade_vines.page2.title",
       "item": {
         "item": "pastel:germinated_jade_vine_bulb"
@@ -50,7 +50,7 @@
       "text": "book.pastel.guidebook.jade_vines.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.jade_jelly",
       "anchor": "jade_jelly",
       "item": {
@@ -74,7 +74,7 @@
       "text": "book.pastel.guidebook.jade_vines.page4.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.jade_vines.page5.title",
       "anchor": "petals",
       "item": {
@@ -87,7 +87,7 @@
       "text": "book.pastel.guidebook.jade_vines.page5.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.moonstruck_nectar",
       "anchor": "nectar",
       "item": {

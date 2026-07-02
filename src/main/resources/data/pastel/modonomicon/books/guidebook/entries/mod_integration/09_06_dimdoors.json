@@ -30,7 +30,7 @@
       "title": "book.pastel.guidebook.mod_integration.dimdoors.name"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.dimdoors.altered_fabric_resonance.title",
       "condition": {
         "type": "modonomicon:advancement",

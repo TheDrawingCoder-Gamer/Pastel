@@ -35,7 +35,7 @@
       "text": "book.pastel.guidebook.enchanting_items.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:enchanted_book"
       },

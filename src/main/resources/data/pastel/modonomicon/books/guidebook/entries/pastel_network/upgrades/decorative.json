@@ -21,7 +21,7 @@
       "text": "book.pastel.guidebook.pastel_upgrades.decorative.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.shimmerstone_gem",
       "item": {
         "item": "pastel:shimmerstone_gem"

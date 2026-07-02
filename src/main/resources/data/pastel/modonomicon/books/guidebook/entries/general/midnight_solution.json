@@ -37,7 +37,7 @@
       "text": "book.pastel.guidebook.midnight_solution.page5.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:black_materia"
       },

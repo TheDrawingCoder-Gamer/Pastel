@@ -21,7 +21,7 @@
   "y": 1,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.midnight_aberration",
       "item": {
         "item": "pastel:midnight_aberration"

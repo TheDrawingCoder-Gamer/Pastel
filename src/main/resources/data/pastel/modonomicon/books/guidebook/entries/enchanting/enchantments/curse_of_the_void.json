@@ -22,7 +22,7 @@
       "title": "enchantment.pastel.voiding"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.enchantment_characteristics",
       "item": {
         "item": "minecraft:iron_pickaxe"

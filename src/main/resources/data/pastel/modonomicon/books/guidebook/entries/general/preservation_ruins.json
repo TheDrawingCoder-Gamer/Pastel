@@ -17,7 +17,7 @@
   "y": 7,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.preservation_ruins.name",
       "item": {
         "item": "pastel:preservation_controller"

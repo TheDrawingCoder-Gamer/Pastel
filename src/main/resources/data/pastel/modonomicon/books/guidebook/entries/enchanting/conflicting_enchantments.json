@@ -21,7 +21,7 @@
   "y": 2,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.conflicting_enchantments.name",
       "item": {
         "item": "minecraft:diamond_chestplate",

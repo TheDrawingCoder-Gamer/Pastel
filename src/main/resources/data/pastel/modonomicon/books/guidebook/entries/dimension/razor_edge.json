@@ -31,14 +31,14 @@
       "text": "book.pastel.guidebook.razor_edge.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:sawblade_grass"
       },
       "text": "book.pastel.guidebook.razor_edge.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:bristle_sprouts"
       },

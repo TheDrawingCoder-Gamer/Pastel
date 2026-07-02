@@ -30,7 +30,7 @@
       "text": "book.pastel.guidebook.stargazing.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:collect_star_fragment"
@@ -52,7 +52,7 @@
       "text": "book.pastel.guidebook.stargazing.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:collect_star_fragment"
@@ -64,7 +64,7 @@
       "text": "book.pastel.guidebook.stargazing.page3.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:collect_star_fragment"

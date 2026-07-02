@@ -20,7 +20,7 @@
   "y": 3,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:slush"
       },
@@ -28,7 +28,7 @@
       "title": "block.pastel.slush"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:tilled_slush"
       },

@@ -27,7 +27,7 @@
       "recipe_id": "pastel:pedestal/tier2/natures_staff"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:midgame/build_enchanting_structure"
@@ -44,7 +44,7 @@
       "text": "book.pastel.guidebook.natures_staff.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:midgame/build_enchanting_structure"
@@ -61,7 +61,7 @@
       "text": "book.pastel.guidebook.natures_staff.page3.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:midgame/build_enchanting_structure"

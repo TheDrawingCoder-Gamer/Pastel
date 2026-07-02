@@ -16,7 +16,7 @@
   "y": 3,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "Shimmerstone",
       "item": {
         "item": "pastel:shimmerstone_gem"

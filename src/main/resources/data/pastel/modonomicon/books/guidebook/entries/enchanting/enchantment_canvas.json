@@ -27,7 +27,7 @@
       "recipe_id": "pastel:pedestal/tier2/enchantment_canvas"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.enchantment_canvas.page2.title",
       "item": {
         "item": "pastel:midnight_solution_bucket"

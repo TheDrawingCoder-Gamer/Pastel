@@ -21,7 +21,7 @@
   "turnin": "pastel:grow_bloodstone_in_crystallarieum",
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.bloodstone.name",
       "item": {
         "item": "pastel:raw_bloodstone"

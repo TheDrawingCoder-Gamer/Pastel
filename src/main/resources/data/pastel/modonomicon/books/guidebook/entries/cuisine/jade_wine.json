@@ -32,7 +32,7 @@
       "text": "book.pastel.guidebook.jade_wine.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.jade_wine.page2.title",
       "condition": {
         "type": "modonomicon:advancement",

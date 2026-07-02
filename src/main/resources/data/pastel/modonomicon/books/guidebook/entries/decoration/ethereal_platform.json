@@ -27,7 +27,7 @@
   "y": 6,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:ethereal_platform"
       },

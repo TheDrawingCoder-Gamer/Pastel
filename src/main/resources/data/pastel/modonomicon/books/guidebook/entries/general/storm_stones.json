@@ -21,7 +21,7 @@
       "text": "book.pastel.guidebook.storm_stones.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.storm_stones.name",
       "item": {
         "item": "pastel:storm_stone"

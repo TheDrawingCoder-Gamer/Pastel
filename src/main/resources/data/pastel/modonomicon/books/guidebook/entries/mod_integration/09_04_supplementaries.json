@@ -49,7 +49,7 @@
       "recipe_id": "pastel:mod_integration/supplementaries/enchanter/book_stasis"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.supplementaries.page3.title",
       "condition": {
         "type": "modonomicon:advancement",

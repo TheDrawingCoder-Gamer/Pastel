@@ -71,7 +71,7 @@
       "text": "book.pastel.guidebook.poisoners_handbook.page10.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:nectardew_burgeon"
       },

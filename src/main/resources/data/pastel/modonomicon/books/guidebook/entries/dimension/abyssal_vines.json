@@ -35,7 +35,7 @@
       "text": "book.pastel.guidebook.abyssal_vines.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:fissure_plum"
       },

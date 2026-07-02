@@ -36,7 +36,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.botania.page2.title",
       "item": {
         "item": "botania:magenta_mystical_petal"
@@ -61,7 +61,7 @@
       "recipe_id": "pastel:mod_integration/botania/pedestal/floral_fertilizer"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "botania:black_hole_talisman"
       },
@@ -89,7 +89,7 @@
       "recipe_id": "pastel:mod_integration/botania/spirit_instiller/overgrowth_seed"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",
@@ -101,7 +101,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.black_lotus_reagent.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",
@@ -113,7 +113,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.blacker_lotus_reagent.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",
@@ -125,7 +125,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.blackest_lotus_reagent.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",
@@ -137,7 +137,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.least_black_lotus_reagent.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",
@@ -149,7 +149,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.gaia_spirit_reagent.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",
@@ -161,7 +161,7 @@
       "text": "book.pastel.guidebook.mod_integration.botania.mana_powder_reagent.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.potion_reagent",
       "condition": {
         "type": "modonomicon:advancement",

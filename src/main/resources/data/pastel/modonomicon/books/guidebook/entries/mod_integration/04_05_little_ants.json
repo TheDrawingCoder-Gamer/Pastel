@@ -30,7 +30,7 @@
       "title": "book.pastel.guidebook.mod_integration.little_ants.name"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:jade_petal_block"
       },
@@ -41,7 +41,7 @@
       "text": "book.pastel.guidebook.mod_integration.little_ants.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:orange_dye"
       },
@@ -52,7 +52,7 @@
       "text": "book.pastel.guidebook.mod_integration.little_ants.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:orange_pigment"
       },

@@ -29,7 +29,7 @@
       "type": "modonomicon:empty"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "anchor": "topaz",
       "condition": {
         "type": "modonomicon:advancement",
@@ -58,7 +58,7 @@
       "text": "book.pastel.guidebook.shards.illustration.topaz.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "anchor": "amethyst",
       "condition": {
         "type": "modonomicon:advancement",
@@ -87,7 +87,7 @@
       "text": "book.pastel.guidebook.shards.illustration.amethyst.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "anchor": "citrine",
       "condition": {
         "type": "modonomicon:advancement",
@@ -116,7 +116,7 @@
       "text": "book.pastel.guidebook.shards.illustration.citrine.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "anchor": "onyx",
       "condition": {
         "type": "modonomicon:advancement",
@@ -145,7 +145,7 @@
       "text": "book.pastel.guidebook.shards.illustration.onyx.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "anchor": "moonstone",
       "condition": {
         "type": "modonomicon:advancement",

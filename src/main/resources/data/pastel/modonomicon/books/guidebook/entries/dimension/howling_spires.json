@@ -31,14 +31,14 @@
       "text": "book.pastel.guidebook.howling_spires.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:ashen_blackslag"
       },
       "text": "book.pastel.guidebook.howling_spires.ashen_blackslag.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:varia_sprout"
       },

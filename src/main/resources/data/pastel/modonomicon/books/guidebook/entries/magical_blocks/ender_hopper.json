@@ -16,7 +16,7 @@
   "y": 2,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "block.pastel.ender_hopper",
       "item": {
         "item": "pastel:ender_hopper"

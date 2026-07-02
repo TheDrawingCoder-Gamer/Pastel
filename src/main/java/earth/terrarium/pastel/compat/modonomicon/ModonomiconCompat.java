@@ -1,6 +1,8 @@
 package earth.terrarium.pastel.compat.modonomicon;
 
 import com.klikli_dev.modonomicon.book.page.BookPage;
+import com.klikli_dev.modonomicon.book.page.BookSpotlightPage;
+import com.klikli_dev.modonomicon.client.render.page.BookSpotlightPageRenderer;
 import com.klikli_dev.modonomicon.client.render.page.PageRendererRegistry;
 import com.klikli_dev.modonomicon.data.BookConditionJsonLoader;
 import com.klikli_dev.modonomicon.data.BookPageJsonLoader;
@@ -29,6 +31,7 @@ import earth.terrarium.pastel.compat.modonomicon.client.pages.BookStatusEffectPa
 import earth.terrarium.pastel.compat.modonomicon.client.pages.BookTitrationBarrelFermentingPageRenderer;
 import earth.terrarium.pastel.compat.modonomicon.page_types.WebLinkEntry;
 import earth.terrarium.pastel.compat.modonomicon.pages.BookChecklistPage;
+import earth.terrarium.pastel.compat.modonomicon.pages.BookCloakedSpotlightPage;
 import earth.terrarium.pastel.compat.modonomicon.pages.BookCollectionPage;
 import earth.terrarium.pastel.compat.modonomicon.pages.BookGatedRecipePage;
 import earth.terrarium.pastel.compat.modonomicon.pages.BookHintPage;
@@ -123,6 +126,8 @@ public class ModonomiconCompat extends PastelIntegrationPacks.ModIntegrationPack
 
     public static final ResourceLocation PRIMORDIAL_FIRE_BURNING_PAGE = PastelCommon.locate("primordial_fire_burning");
 
+    public static final ResourceLocation CLOAKED_SPOTLIGHT_PAGE = PastelCommon.locate("cloaked_spotlight");
+
     // Unlock Conditions
     public static final ResourceLocation ENCHANTMENT_REGISTERED = PastelCommon.locate("enchantment_registered");
 
@@ -199,6 +204,13 @@ public class ModonomiconCompat extends PastelIntegrationPacks.ModIntegrationPack
                 (BookPageJsonLoader<?>) BookCollectionPage::fromJson,
                 BookCollectionPage::fromNetwork
             );
+
+        LoaderRegistry
+                .registerPageLoader(
+                        CLOAKED_SPOTLIGHT_PAGE,
+                        (BookPageJsonLoader<?>)BookCloakedSpotlightPage::fromJson,
+                        BookCloakedSpotlightPage::fromNetwork
+                );
     }
 
     private void registerGatedRecipePage(
@@ -393,6 +405,12 @@ public class ModonomiconCompat extends PastelIntegrationPacks.ModIntegrationPack
                     }
                 }
             );
+
+        PageRendererRegistry
+                .registerPageRenderer(
+                        CLOAKED_SPOTLIGHT_PAGE,
+                        p -> new BookSpotlightPageRenderer((BookSpotlightPage) p)
+                );
     }
 
 }

@@ -16,7 +16,7 @@
   "y": -1,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.raw_azurite",
       "item": {
         "item": "pastel:raw_azurite"
@@ -24,7 +24,7 @@
       "text": "book.pastel.guidebook.pastel_upgrades.transfer.raw_azurite.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.pure_azurite",
       "item": {
         "item": "pastel:pure_azurite"
@@ -36,7 +36,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.raw_malachite",
       "item": {
         "item": "pastel:raw_malachite"
@@ -48,7 +48,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.pure_malachite",
       "item": {
         "item": "pastel:pure_malachite"
@@ -60,7 +60,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.raw_bloodstone",
       "item": {
         "item": "pastel:raw_bloodstone"
@@ -72,7 +72,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.pure_bloodstone",
       "item": {
         "item": "pastel:pure_bloodstone"
@@ -84,7 +84,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.resonance_shard",
       "item": {
         "item": "pastel:resonance_shard"

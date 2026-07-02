@@ -25,7 +25,7 @@
   "y": 6,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.vein_mining.name",
       "item": {
         "item": "pastel:multitool"

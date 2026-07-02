@@ -21,7 +21,7 @@
   "y": 10,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:weeping_gala_sprig"
       },

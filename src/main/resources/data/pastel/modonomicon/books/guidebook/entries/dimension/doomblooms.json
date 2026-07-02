@@ -25,7 +25,7 @@
       "title": "book.pastel.guidebook.doomblooms.name"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:doombloom_seed"
       },

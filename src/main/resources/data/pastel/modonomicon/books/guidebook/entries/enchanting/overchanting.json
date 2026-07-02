@@ -19,7 +19,7 @@
   "y": -2,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.overchanting.name",
       "item": {
         "item": "minecraft:enchanted_book",

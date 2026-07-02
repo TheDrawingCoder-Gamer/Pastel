@@ -20,7 +20,7 @@
   "y": -8,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:pyrite"
       },
@@ -55,7 +55,7 @@
       "text": "book.pastel.guidebook.pyrite.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.pyrite.page3.title",
       "item": {
         "id": "pastel:pyrite_ripper"

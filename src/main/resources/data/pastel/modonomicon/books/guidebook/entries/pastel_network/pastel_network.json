@@ -32,7 +32,7 @@
       "border": false
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:name_tag",
         "components": {

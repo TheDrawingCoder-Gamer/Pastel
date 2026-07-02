@@ -56,7 +56,7 @@
       "text": "book.pastel.guidebook.geodes.page3.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:hidden/collect_shards/topaz"
@@ -68,7 +68,7 @@
       "text": "book.pastel.guidebook.geodes.page4.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:hidden/collect_shards/amethyst"
@@ -80,7 +80,7 @@
       "text": "book.pastel.guidebook.geodes.page5.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:hidden/collect_shards/citrine"
@@ -92,7 +92,7 @@
       "text": "book.pastel.guidebook.geodes.page6.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:lategame/collect_moonstone"

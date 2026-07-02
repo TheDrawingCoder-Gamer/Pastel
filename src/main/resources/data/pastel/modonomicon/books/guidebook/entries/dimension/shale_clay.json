@@ -70,7 +70,7 @@
       "text": "book.pastel.guidebook.turn_back_to_polished"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:tilled_shale_clay"
       },

@@ -23,7 +23,7 @@
   "y": 3,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.harvesting_spawners",
       "item": {
         "item": "pastel:resonant_pickaxe"

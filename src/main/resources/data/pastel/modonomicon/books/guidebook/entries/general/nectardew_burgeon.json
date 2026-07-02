@@ -20,7 +20,7 @@
   "y": -6,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.nectardew_burgeon.name",
       "item": {
         "item": "pastel:nectardew_burgeon"

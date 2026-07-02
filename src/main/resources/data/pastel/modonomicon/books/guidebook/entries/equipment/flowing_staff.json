@@ -27,7 +27,7 @@
       "recipe_id": "pastel:pedestal/tier2/flowing_staff"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:lategame/craft_resonant_tool"

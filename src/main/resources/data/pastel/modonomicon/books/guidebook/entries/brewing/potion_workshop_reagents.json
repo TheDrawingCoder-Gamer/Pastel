@@ -31,14 +31,14 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:redstone"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.redstone.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_redstone"
       },
@@ -50,14 +50,14 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.pure_redstone.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:glowstone_dust"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.glowstone_dust.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_glowstone"
       },
@@ -69,14 +69,14 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.pure_glowstone.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:lapis_lazuli"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.lapis_lazuli.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_lapis"
       },
@@ -88,14 +88,14 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.pure_lapis.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:gunpowder"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.gunpowder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:dragon_breath"
       },
@@ -106,7 +106,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.dragon_breath.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "minecraft:echo_shard"
       },
@@ -117,7 +117,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.echo_shard.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_echo"
       },
@@ -129,35 +129,35 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.pure_echo.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:topaz_powder"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.topaz_powder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:amethyst_powder"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.amethyst_powder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:citrine_powder"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.citrine_powder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:onyx_powder"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.onyx_powder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:moonstone_powder"
       },
@@ -168,14 +168,14 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.moonstone_powder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:shimmerstone_gem"
       },
       "text": "book.pastel.guidebook.potion_workshop_reagents.shimmerstone_gem.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:quitoxic_powder"
       },
@@ -186,7 +186,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.quitoxic_powder.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:stratine_fragments"
       },
@@ -197,7 +197,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.stratine_fragments.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:paltaeria_fragments"
       },
@@ -208,7 +208,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.paltaeria_fragments.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:stardust"
       },
@@ -219,7 +219,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.stardust.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:star_fragment"
       },
@@ -230,7 +230,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.star_fragment.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:storm_stone"
       },
@@ -241,7 +241,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.storm_stone.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:raw_azurite"
       },
@@ -252,7 +252,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.raw_azurite.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:four_leaf_clover"
       },
@@ -263,7 +263,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.four_leaf_clover.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:vegetal"
       },
@@ -274,7 +274,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.vegetal.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:neolith"
       },
@@ -285,7 +285,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.neolith.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:midnight_chip"
       },
@@ -296,7 +296,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.midnight_chip.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:moonstruck_nectar"
       },
@@ -307,7 +307,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.moonstruck_nectar.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:bedrock_dust"
       },
@@ -318,7 +318,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.bedrock_dust.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:bismuth_flake"
       },
@@ -329,7 +329,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.bismuth_flake.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:raw_malachite"
       },
@@ -340,7 +340,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.raw_malachite.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:raw_bloodstone"
       },
@@ -351,7 +351,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.raw_bloodstone.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:prickly_bayleaf"
       },
@@ -363,7 +363,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.prickly_bayleaf.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:jadeite_petals"
       },
@@ -375,7 +375,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.jadeite_petals.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:fissure_plum"
       },
@@ -387,7 +387,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.fissure_plum.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:bone_ash"
       },
@@ -399,7 +399,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.bone_ash.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:ash_flakes"
       },
@@ -411,7 +411,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.ash_flakes.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:bitter_oils"
       },
@@ -423,7 +423,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.bitter_oils.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:nightdew_sprout"
       },
@@ -435,7 +435,7 @@
       "text": "book.pastel.guidebook.potion_workshop_reagents.nightdew_sprout.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:nectardew_burgeon"
       },

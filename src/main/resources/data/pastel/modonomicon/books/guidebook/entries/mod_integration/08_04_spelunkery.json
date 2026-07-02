@@ -102,7 +102,7 @@
       "recipe_id": "pastel:mod_integration/spelunkery/potion_workshop_crafting/spring_water_bucket_crafting"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.mod_integration.spelunkery.black_materia_sluice.title",
       "condition": {
         "type": "modonomicon:advancement",

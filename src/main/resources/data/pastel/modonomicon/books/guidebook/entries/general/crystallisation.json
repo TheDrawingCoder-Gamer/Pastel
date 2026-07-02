@@ -21,7 +21,7 @@
   "y": 4,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:hidden/collect_blazing_crystal"
@@ -43,7 +43,7 @@
       "text": "book.pastel.guidebook.liquid_crystal_essences.page1.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:hidden/collect_frostbite_crystal"

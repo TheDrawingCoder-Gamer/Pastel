@@ -20,7 +20,7 @@
   "y": 7,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:orange_glowblock"
       },

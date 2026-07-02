@@ -16,7 +16,7 @@
   "y": 0,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.delving_deeper_down.name",
       "item": {
         "id": "minecraft:bedrock"

@@ -34,7 +34,7 @@
   "y": 2,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.memories.name",
       "item": {
         "item": "pastel:memory",
@@ -61,7 +61,7 @@
       "text": "book.pastel.guidebook.memories.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:milestones/unlock_remembering_boss_memories"

@@ -21,7 +21,7 @@
   "turnin": "pastel:midgame/break_decayed_bedrock",
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:bottle_of_ruin"
       },

@@ -20,7 +20,7 @@
   "y": 0,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.pure_alcohol",
       "item": {
         "item": "pastel:pure_alcohol"

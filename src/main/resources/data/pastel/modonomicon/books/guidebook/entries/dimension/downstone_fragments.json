@@ -24,7 +24,7 @@
   "y": 5,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.downstone_fragments",
       "item": {
         "id": "pastel:downstone_fragments"

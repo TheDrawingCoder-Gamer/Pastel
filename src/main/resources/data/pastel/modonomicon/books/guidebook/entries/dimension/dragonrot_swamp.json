@@ -31,14 +31,14 @@
       "text": "book.pastel.guidebook.dragonrot_swamp.page0.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:snapping_ivy"
       },
       "text": "book.pastel.guidebook.dragonrot_swamp.page2.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "id": "pastel:flayed_earth"
       },

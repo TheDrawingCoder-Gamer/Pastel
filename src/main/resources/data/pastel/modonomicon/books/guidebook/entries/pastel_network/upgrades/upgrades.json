@@ -21,7 +21,7 @@
       "text": "book.pastel.guidebook.pastel_upgrades.about.text"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:connection_node"
       },

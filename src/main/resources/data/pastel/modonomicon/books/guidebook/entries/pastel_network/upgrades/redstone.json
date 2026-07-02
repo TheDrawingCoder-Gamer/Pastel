@@ -21,7 +21,7 @@
   "y": 1,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_redstone"
       },
@@ -32,7 +32,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_coal"
       },
@@ -43,7 +43,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_echo"
       },
@@ -54,7 +54,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_lapis"
       },
@@ -65,7 +65,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_quartz"
       },
@@ -76,7 +76,7 @@
       }
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "item": {
         "item": "pastel:pure_glowstone"
       },

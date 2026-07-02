@@ -20,7 +20,7 @@
   "y": 1,
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "item.pastel.bedrock_dust",
       "item": {
         "item": "pastel:bedrock_dust"

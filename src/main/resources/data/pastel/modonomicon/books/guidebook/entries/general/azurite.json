@@ -17,7 +17,7 @@
   "turnin": "pastel:midgame/grow_azurite_in_crystallarieum",
   "pages": [
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "title": "book.pastel.guidebook.azurite.name",
       "item": {
         "item": "pastel:raw_azurite"

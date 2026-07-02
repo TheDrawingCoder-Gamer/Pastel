@@ -21,7 +21,7 @@
       "title": "block.pastel.dragonbone"
     },
     {
-      "type": "modonomicon:spotlight",
+      "type": "pastel:cloaked_spotlight",
       "condition": {
         "type": "modonomicon:advancement",
         "advancement_id": "pastel:break_cracked_dragonbone"
